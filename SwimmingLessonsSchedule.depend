@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1427105731 source:c:\users\alex\documents\inb371_workshops\swimminglessonsschedule\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"Schedule.h"
+
+1427105483 c:\users\alex\documents\inb371_workshops\swimminglessonsschedule\include\schedule.h
+	<string>
+
+1427110029 source:c:\users\alex\documents\inb371_workshops\swimminglessonsschedule\src\schedule.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<conio.h>
+	<stdlib.h>
+	<limits>
+	"Schedule.h"
+
